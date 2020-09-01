@@ -1,6 +1,6 @@
 this is master file
-
+<<<<<<< HEAD
 this is master2 file
-
+=======
 this is branch file
-
+>>>>>>> branch1
