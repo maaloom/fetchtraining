@@ -4,3 +4,4 @@ this is master2 file
 
 this is branch file
 
+this is fetch test
