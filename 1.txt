@@ -6,4 +6,6 @@ this is branch file
 
 this is fetch test
 
+this is branch2
+
 this is branch1
